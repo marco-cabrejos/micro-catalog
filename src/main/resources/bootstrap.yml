@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: micro-catalog
+  cloud:
+    config:
+      uri: https://servidor-config.azurewebsites.net/
+      #uri: http://localhost:8081/
